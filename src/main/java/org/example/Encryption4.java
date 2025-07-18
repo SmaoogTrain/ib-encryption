@@ -6,9 +6,9 @@ public class Encryption4 {
     private static final int SHIFT = 10;
 
     public static void encrypt4() {
-        String inputFile = "\\IB\\encryption4\\input.txt";
-        String encryptedFile = "\\IB\\encryption4\\encrypted.txt";
-        String decryptedFile = "\\IB\\encryption4\\decrypted.txt";
+        String inputFile = "IB\\encryption4\\input.txt";
+        String encryptedFile = "IB\\encryption4\\encrypted.txt";
+        String decryptedFile = "IB\\encryption4\\decrypted.txt";
 
         encryptFile(inputFile, encryptedFile);
 

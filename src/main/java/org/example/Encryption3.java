@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Encryption3 {
-    private static final String TABLE_FILE_PATH = "\\IB\\encryption3\\table.txt";
+    private static final String TABLE_FILE_PATH = "IB\\encryption3\\table.txt";
 
     public static void encrypt3() {
         try {
